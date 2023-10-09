@@ -1,16 +1,16 @@
 body {
-    background-color: #e46f6f;
-}
-
-hl {
+    background: #CCCCCC;
+    }
+    
+    h1 {
     text-align: center;
-}
-
- p {
+    }
+    
+    p {
     text-align: center;
- }
-
-#missao {
-    color:rgb(0, 255, 200);
+    }
+    
+    #missao {
+    color: red;
     font-size: 18px;
-}
+    }
