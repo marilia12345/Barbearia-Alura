@@ -1,4 +1,4 @@
-body {
+.principal {
     background: #ffb5da;
     }
     
@@ -17,4 +17,16 @@ body {
 
     #banner {
         width: 100%;
+    }
+
+    .Benefícios-título {
+        text-align: center;
+    }
+
+    .itens {
+        font-style: italic;
+    }
+
+    .Benefícios {
+        background-color: white;
     }
