@@ -30,3 +30,12 @@
     .Benefícios {
         background-color: #ffb5da;
     }
+
+    ul {
+        display: inline-block;
+        width: 20%;
+    }
+
+ .beneficios-imagem {
+    width: 50%;
+}
